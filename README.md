@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aaliyah Davy
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Science and Machine Learning (including deployment)
 - 🌱 I’m currently learning Image Segmentation and Object Localization
 - 💞️ I’m looking to collaborate on Meta-Learning Algorithms
 
